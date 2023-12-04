@@ -29,9 +29,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/IllegalDeveloperBot")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/IllegalDeveloperBot")],
+                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/Illegal_Developer")]
                 ]
             ),
             
@@ -85,9 +85,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
+                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/Illegal_Developer")]
                 ]
             ),
             
@@ -109,9 +109,9 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
+                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/Illegal_Developer")]
                 ]
             ),
             
