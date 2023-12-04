@@ -17,12 +17,12 @@ async def master(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Coded By [IT'S LUFFY](https://t.me/god_luffy_ati)",
+                    text="I am Coded By [ILLEGAL DEVELOPER](https://t.me/IllegalDeveloperBot)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Developer💻", url=f"https://t.me/elitecraft_studios")
+                                InlineKeyboardButton("Developer💻", url=f"https://t.me/IllegalDeveloperBot")
                             ]
                         ]
                     ),
@@ -42,7 +42,7 @@ async def follow_user(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("FOLLOW ME", url=f"https://youtube.com/@elitecraft_studios")
+                                InlineKeyboardButton("FOLLOW ME", url=f"https://t.me/Illegal_Developer")
                             ]
                         ]
                     ),
