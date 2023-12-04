@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/Lord_JackSparrow/File-Stream/",
+  "repository": "https://github.com/IllegalDeveloper/Illegal-File-Stream-Bot",
   "success_url": "/",
-  "logo": "https://graph.org/file/3421895411af26c3da183.jpg",
-  "website": "http://t.me/elitecraft_studios",
+  "logo": "https://graph.org/file/e82a729f6babc85b4127c.jpg",
+  "website": "https://t.me/Illegal_Developer",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -54,7 +54,7 @@
       },
       "OWNER_USERNAME": {
           "description": "Enter your username without @  example  adarsh.",
-          "value": "elitecraft_support"
+          "value": "Illegal_Developer"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
@@ -88,7 +88,7 @@
           "required": false
       },
       "name": {
-          "description": " Session Name for Bot [ Add adarsh-goel]",
+          "description": " Session Name for Bot [ Add Illegal_Developer]",
           "value": "File-To-Link",
           "required": false
       }
