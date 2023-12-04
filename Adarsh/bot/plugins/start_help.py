@@ -85,8 +85,8 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/IllegalDeveloperBot")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/IllegalDeveloperBot")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/Illegal_Developer")]
                 ]
             ),
@@ -104,13 +104,13 @@ async def about_handler(bot, message):
               
     await message.reply_photo(
             photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
-            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/elitecraft_studios'>EliteCraft Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/elitecraft_support'>elitecraft support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@elitecraft_studios'>EliteCraft Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
+            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Illegal_Developer'>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/IllegalDeveloperBot'>ɪʟʟᴇɢᴀʟ ꜱᴜᴘᴘᴏʀᴛ</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/Illegal_Developer'>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Illegal_Developer"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/IllegalDeveloperBot")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/IllegalDeveloperBot"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/IllegalDeveloperBot")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/Illegal_Developer")]
                 ]
             ),
