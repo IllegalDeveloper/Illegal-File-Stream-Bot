@@ -30,7 +30,7 @@
   <summary><b>Deploy on Heroku:</b></summary>
 
 
-<a href="https://youtu.be/lBJZdaA04Ig"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
+<a href="https://youtu.be/"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
 <h4> So Follow Above Video 👆 and then deploy other wise bot won't work</h4>
 
@@ -38,7 +38,7 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Lord-JackSparrow/File-Stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/IllegalDevelopers/Illegal-File-Stream-Bot)
 
 <br>
 
@@ -144,6 +144,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel](https://github.com/adarsh-goel)
-- [Me For Fix Errors](https://github.com/itz-jeol)
+- [Illegal Developer](https://github.com/IllegalDevelopers/)
+- [Me For Fix Errors](https://github.com/)
 - Everyone In This Journey !
